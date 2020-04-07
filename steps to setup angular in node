@@ -1,0 +1,12 @@
+Install node.js
+In node.js command prompt --> npm install -g @angular/cli
+navigate to a new folder where u want to create a project.
+create a new project with --> ng new projectname
+
+Install Visual studio and open this project in VS.
+This project will have a dumpy app. 
+You can run it by command--> ng serve
+
+http://localhost:4200 --> you can view app in the browser.
+
+Yous can change codes in VS and work on.

@@ -1,0 +1,26 @@
+Angular -- A client side (browser) framework which allows you to build single page Applications (SPA) - that means angular is responsible for whole front end function.
+Render UI dynamic data -- not only involes in displaying html data and css it also used to render dynamic data.
+Handling user input - validating user input and sending it to backend
+Communicate with backend services.
+Angular gives mobile app like experience -- we no need to reload the page again, the components of the pages changes.
+
+
+Node.js -- A server side library - It is javascript on server side.
+It listen to request and send responses.
+Execute server side logic - like authentication.
+Interact with Databases and files.
+
+Angular does not connect with backend because it has risk of exposing secured data.
+
+Express - Node uses a framework to simplifies writing server side code and logic.
+Based on node express offers same functionalities.
+Middleware based - Funnel request through Functions.
+Includes routing( sending different request to different endpoints), view rendering(html) and more.
+
+index.html is the file which provides SPA of angular.This file has one component for ex app-root.
+This component points to angular component.ts selector.
+
+
+
+
+

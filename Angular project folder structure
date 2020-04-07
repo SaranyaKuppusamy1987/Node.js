@@ -1,0 +1,13 @@
+Angular project application how does it work?
+
+modules and components are building blocks of angular applications.
+
+
+main.ts --> This file has function platformBrowserDynamic().bootstrapModule(Module name) --> control goes to that module defined in app.module.ts. This function starts angular app in browser by loading index.html. index.html body has the app-root which is the selector defined in app.component.ts file
+
+app.module.ts --> THis file has component declaration and bootstrap Appcomponent.
+
+app.component.ts --> Has declaration of AppComponent and calls app.component.html, app.component.css
+
+
+
