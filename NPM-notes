@@ -1,0 +1,15 @@
+NPM
+
+NPM is a packer manager for Node.js packages or modules.
+NPM program is installed on your computer when you install node.js
+
+A package in node.js contains all files you need for a module.
+Modules are javascript libraries you can include in your project.
+
+npm install upper-case
+
+upperscase module is installed and you can use it in ur application.
+
+var uc=require('upper-case');
+res.write(uc.upperCase("Hello World!"));
+
